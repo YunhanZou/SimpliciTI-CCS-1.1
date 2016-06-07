@@ -1,0 +1,1 @@
+"./Components/bsp/bsp_rtc.obj" "./Components/usb/usb.obj" -l"rts430x.lib" "../lnk_msp430f5438a.cmd" 
